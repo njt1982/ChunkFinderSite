@@ -1,4 +1,4 @@
-# Welcome to Chunk Finder Site
+# Welcome to Chunk Finder App for iOS
 
 
 ## Privacy Policy
